@@ -506,48 +506,7 @@ And I will try to fix you</br>`,
 可生活還是得繼續啊</br>`,
     howl: null
   },
-  {
-    title: '好樂團-蒸發',
-    file: 'evaporation',
-    lyric: ``,
-    howl: null
-  },
-  {
-    title: '好樂團-蒸發',
-    file: 'evaporation',
-    lyric: ``,
-    howl: null
-  },
-  {
-    title: '好樂團-蒸發',
-    file: 'evaporation',
-    lyric: ``,
-    howl: null
-  },
-  {
-    title: '好樂團-蒸發',
-    file: 'evaporation',
-    lyric: ``,
-    howl: null
-  },
-  {
-    title: '好樂團-蒸發',
-    file: 'evaporation',
-    lyric: ``,
-    howl: null
-  },
-  {
-    title: '好樂團-蒸發',
-    file: 'evaporation',
-    lyric: ``,
-    howl: null
-  },
-  {
-    title: '好樂團-蒸發',
-    file: 'evaporation',
-    lyric: ``,
-    howl: null
-  },
+
 
 ]);
 
